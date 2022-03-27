@@ -3,8 +3,8 @@
 
 ### Upload Form API
 - Below parameters read from the environment:
-   - Port - The port to connect
-   - Auth - The authentication
+   - PORT - The port to connect
+   - AuthFormKey - The authentication
 
 - Database part is not implemented due to the time limit.
 - Code flow :
